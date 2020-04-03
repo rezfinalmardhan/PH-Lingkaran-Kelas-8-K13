@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="DD1E791F-FB1B-4921-84FE-4AB4BE994F50" version="0">
+<presentation availableOffline="1" guid="24A33C56-C751-4C57-8E50-99CF5AC005D7" version="0">
 	<info>
 		<title>Penilaian Harian Lingkaran</title>
 		<description/>
 	</info>
-	<files index="id20" thumbnail="id16" totalSize="2253267">
+	<files index="id20" thumbnail="id16" totalSize="2241321">
 		<file id="id0">data/browsersupport.js</file>
 		<file id="id1">data/fonts/fnt0.woff</file>
 		<file id="id2">data/fonts/fnt1.woff</file>
